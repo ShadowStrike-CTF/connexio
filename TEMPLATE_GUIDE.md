@@ -7,7 +7,7 @@ Replace all placeholders before use. Search-and-replace across all files.
 | connexio | PyPI slug (ASCII, lowercase, hyphens if needed)  | pechat                                    |
 | Connexio | Display name with diacritics if applicable       | Pečat                                     |
 | connexio    | GitHub repo name (ASCII, lowercase, hyphens)     | pechat                                    |
-| Legislation cross-reference and linking.    | One-line description from Product Directory      | Forensic file hashing and verification.   |
+| Strategos tool. Coming soon.    | One-line description from Product Directory      | Forensic file hashing and verification.   |
 | 2026        | Current year                                     | 2026                                      |
 
 ## What the template provides

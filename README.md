@@ -1,6 +1,6 @@
 # Connexio
 
-Legislation cross-reference and linking. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/connexio
 
